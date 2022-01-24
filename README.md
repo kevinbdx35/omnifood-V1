@@ -26,7 +26,10 @@ There is no need for a special installation here.
 
 ### Built With
 
-HTML, CSS, JAVASCRIPT all in vanilla mode
+- HTML
+- CSS
+- Javascript
+- 
 
 ### Prerequisites
 
