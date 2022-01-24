@@ -27,9 +27,13 @@ There is no need for a special installation here.
 ### Built With
 
 - HTML
-- CSS
-- Javascript
-- 
+- CSS Vanilla
+- Javascript Vanilla
+- [Normalise](https://necolas.github.io/normalize.css/)
+- [Google Fonts](https://fonts.google.com/)
+- [Ionicons](https://ionic.io/ionicons)
+- [Animate CSS](https://animate.style/)
+- [Grid]()
 
 ### Prerequisites
 
